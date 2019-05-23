@@ -1,2 +1,3 @@
 # Miwok_To_English_Translator
-It is an project from udacity
+This android based application is used to translate some of miwok language to english langguage
+
